@@ -11,7 +11,6 @@ function App() {
 
         <br/>
 
-        <img src={require('./imageInSrc.jpg') } alt="imageSrc" />
         
 
         <br/>
