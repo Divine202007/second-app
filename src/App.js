@@ -11,6 +11,8 @@ function App() {
 
         <br/>
 
+        <img src= {'imageInSrc.jpg'} alt="imagesrc"/>
+
         <br/>
       
         <img src='/imageInPublic.jpg' alt="imagepublic" />
