@@ -11,8 +11,6 @@ function App() {
 
         <br/>
 
-        
-
         <br/>
       
         <img src='/imageInPublic.jpg' alt="imagepublic" />
