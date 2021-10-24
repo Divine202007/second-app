@@ -1,5 +1,6 @@
 import './App.css';
 import './style.css';
+import imageSrc from './imageInSrc.jpg' ;
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
 
         <br/>
 
-        <img src= {'imageInSrc.jpg'} alt="imagesrc"/>
+        <img src= {imageSrc} alt="imagesrc"/>
 
         <br/>
       
